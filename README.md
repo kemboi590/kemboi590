@@ -16,6 +16,8 @@
 - 💬 Ask me about **web developement with HTML,CSS & JS**
 
 - 📫 How to reach me **bkemboi590@gmail.com**
+ 📄 Know about my experiences [https://1drv.ms/b/s!AgwqnRfBNq1-ijk0FQ_8q14O_bln?e=Ciei6U](https://1drv.ms/b/s!AgwqnRfBNq1-ijk0FQ_8q14O_bln?e=Ciei6U)
+
 
 - ⚡ Fun fact **i like story telling**
 
