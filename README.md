@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/brianke52378353" target="blank"><img src="https://img.shields.io/twitter/follow/brianke52378353?logo=twitter&style=for-the-badge" alt="brianke52378353" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS and data structures & algorithm**
+- 🌱 I’m currently learning **NODEJS and EXPRESS**
 
 - 👨‍💻 All of my projects are available at [https://kemboi590.github.io/my-portfolio-website/](https://kemboi590.github.io/my-portfolio-website/)
 
-- 💬 Ask me about **web developement with HTML,CSS & JS**
+- 💬 Ask me about **web developement with HTML,CSS,JS,ReactJS**
 
 - 📫 How to reach me **bkemboi590@gmail.com**
 
