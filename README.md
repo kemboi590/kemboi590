@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bkemboi590@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AgwqnRfBNq1-ijk0FQ_8q14O_bln?e=Ciei6U](https://1drv.ms/b/s!AgwqnRfBNq1-ijk0FQ_8q14O_bln?e=Ciei6U)
+- 📄 Know about my experiences [[https://1drv.ms/b/s!AgwqnRfBNq1-ijk0FQ_8q14O_bln?e=Ciei6U](https://stdntpartners-my.sharepoint.com/:b:/g/personal/brian_kemboi_studentambassadors_com/EY8TcqIsYxZPozbolFMnwP4Bm8VeJvbGaUPMNzD2HvZAEg?e=6JJHe5)](my Resume)
 
 
 - ⚡ Fun fact **i like story telling**
