@@ -1,6 +1,6 @@
 [![MasterHead](https://webitexperts.com/images/banner1_1.gif)  ]
 <h1 align="center">Hi 👋, I'm Brian Kemboi</h1>
-<h3 align="center">I'm a tech enthusiastic Student from Kenya</h3>
+<h3 align="center">I'm a Software Engineer from Kenya</h3>
 <img align="right" alt="my_coding_gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemboi590&label=Profile%20views&color=0e75b6&style=flat" alt="kemboi590" /> </p>
@@ -9,18 +9,18 @@
 
 <p align="left"> <a href="https://twitter.com/brianke52378353" target="blank"><img src="https://img.shields.io/twitter/follow/brianke52378353?logo=twitter&style=for-the-badge" alt="brianke52378353" /></a> </p>
 
-- 🌱 I’m currently learning **NODEJS and EXPRESS**
+- 🌱 I’m currently learning **.Net Core and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://kemboi590.github.io/my-portfolio-website/](https://kemboi590.github.io/my-portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://polite-hill-0a3e25203.2.azurestaticapps.net/]([https://kemboi590.github.io/my-portfolio-website/](https://polite-hill-0a3e25203.2.azurestaticapps.net/)
 
-- 💬 Ask me about **web developement with HTML,CSS,JS,ReactJS**
+- 💬 Ask me about **Full stack Development: React,Node,Azure**
 
 - 📫 How to reach me **bkemboi590@gmail.com**
 
 - 📄 Know about my experiences [[https://1drv.ms/b/s!AgwqnRfBNq1-ijk0FQ_8q14O_bln?e=Ciei6U](https://stdntpartners-my.sharepoint.com/:b:/g/personal/brian_kemboi_studentambassadors_com/EY8TcqIsYxZPozbolFMnwP4Bm8VeJvbGaUPMNzD2HvZAEg?e=6JJHe5)](my Resume)
 
 
-- ⚡ Fun fact **i like story telling**
+- ⚡ Fun fact **I cook delicious meal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
