@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemboi590" alt="kemboi590" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/brianke52378353" target="blank"><img src="https://img.shields.io/twitter/follow/brianke52378353?logo=twitter&style=for-the-badge" alt="brianke52378353" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kibichii_brian" target="blank"><img src="https://img.shields.io/twitter/follow/kibichii_brian?logo=twitter&style=for-the-badge" alt="kibichii_brian" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/kibichii-brian/" target="blank"><img src="https://img.shields.io/linkedin/follow/kibichii-brian?logo=twitter&style=for-the-badge" alt="kibichii-brian" /></a> </p>
 
 - 🌱 I’m currently learning **.Net Core and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://polite-hill-0a3e25203.2.azurestaticapps.net/]([https://kemboi590.github.io/my-portfolio-website/](https://polite-hill-0a3e25203.2.azurestaticapps.net/)
+- 👨‍💻 All of my projects are available at [https://polite-hill-0a3e25203.2.azurestaticapps.net/]([https://kemboi590.github.io/my-portfolio-website/](https://polite-hill-0a3e25203.2.azurestaticapps.net/))
 
 - 💬 Ask me about **Full stack Development: React,Node,Azure**
 
