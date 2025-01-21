@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **briankibichiikrmboi@outlook.com**
 
-- 📄 Know about my experiences [[https://1drv.ms/b/s!AgwqnRfBNq1-ijk0FQ_8q14O_bln?e=Ciei6U](https://stdntpartners-my.sharepoint.com/:b:/g/personal/brian_kemboi_studentambassadors_com/EY8TcqIsYxZPozbolFMnwP4Bm8VeJvbGaUPMNzD2HvZAEg?e=6JJHe5)](my Resume)
+- 📄 Know about my experiences [[https://stdntpartners-my.sharepoint.com/:b:/g/personal/brian_kemboi_studentambassadors_com/ESiY6MKRnTVGq1XA6uV-8oQBYP5l84IVtstki0L955eRAg?e=awpiAe](https://stdntpartners-my.sharepoint.com/:b:/g/personal/brian_kemboi_studentambassadors_com/ESiY6MKRnTVGq1XA6uV-8oQBYP5l84IVtstki0L955eRAg?e=awpiAe)](my Resume)
 
 
 - ⚡ Fun fact **I cook delicious meal**
