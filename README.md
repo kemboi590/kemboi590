@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/kibichii-brian/" target="blank"><img src="https://img.shields.io/linkedin/follow/kibichii-brian?logo=twitter&style=for-the-badge" alt="kibichii-brian" /></a> </p>
 
-- 🌱 I’m currently learning **.Net Core and TypeScript**
+- 🌱 I’m a **.Net Developer**
 
 - 👨‍💻 All of my projects are available at [https://polite-hill-0a3e25203.2.azurestaticapps.net/]([https://kemboi590.github.io/my-portfolio-website/](https://polite-hill-0a3e25203.2.azurestaticapps.net/))
 
 - 💬 Ask me about **Full stack Development: React,Node,Azure**
 
-- 📫 How to reach me **bkemboi590@gmail.com**
+- 📫 How to reach me **briankibichiikrmboi@outlook.com**
 
 - 📄 Know about my experiences [[https://1drv.ms/b/s!AgwqnRfBNq1-ijk0FQ_8q14O_bln?e=Ciei6U](https://stdntpartners-my.sharepoint.com/:b:/g/personal/brian_kemboi_studentambassadors_com/EY8TcqIsYxZPozbolFMnwP4Bm8VeJvbGaUPMNzD2HvZAEg?e=6JJHe5)](my Resume)
 
@@ -26,11 +26,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/brianke52378353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brianke52378353" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kibichii-brian-62b264213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kibichii (kemboi) brian" height="30" width="40" /></a>
-<a href="https://www.facebook.com/brian.kemboi.7161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brian kemboi" height="30" width="40" /></a>
-<a href="https://instagram.com/bkemboi590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bkemboi590" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCCicOzw-yvWfW-3Qq2l01_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="briankemboi3610" height="30" width="40" /></a>
+<a href="https://x.com/kibichii_brian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kibichii_brian" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kibichii-brian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brian Kemboi, Microsoft MVP " height="30" width="40" /></a>
+<a href="https://facebook.com/kibichii.brian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kibichii.brian" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kibichii_brian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kibichii_brian" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@briankemboi6429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="briankemboi6429" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
