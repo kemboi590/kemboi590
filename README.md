@@ -8,6 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemboi590&label=Profile%20views&color=0e75b6&style=flat" alt="kemboi590" /> </p>
 
 <img align="right" alt="Brian's Portrait" width="200" src="https://drive.google.com/uc?export=view&id=1S8CFKs6ySB-agquj-aK1NAyybR5VlZux" />
+<img align="left" alt="coding_gif" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemboi590&label=Profile%20views&color=0e75b6&style=flat" alt="kemboi590" /> </p>
 
 ---
 
