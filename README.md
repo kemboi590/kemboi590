@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Brian Kemboi</h1>
 <h3 align="center">Technical Trainer | Software Engineer | Microsoft MVP (.NET)</h3>
-<img align="center" alt="Brian's Portrait" width="200" src="https://drive.google.com/uc?export=view&id=1S8CFKs6ySB-agquj-aK1NAyybR5VlZux" />
+<img align="center" alt="Brian's Portrait" width="1000" src="https://drive.google.com/uc?export=view&id=1S8CFKs6ySB-agquj-aK1NAyybR5VlZux" />
 
-<img align="right" alt="my_coding_gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" alt="my_coding_gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
