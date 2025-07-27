@@ -1,4 +1,4 @@
-[![MasterHead](https://webitexperts.com/images/banner1_1.gif)]
+![MasterHead](https://webitexperts.com/images/banner1_1.gif)
 
 <h1 align="center">Hi 👋, I'm Brian Kemboi</h1>
 <h3 align="center">Technical Trainer | Software Engineer | Microsoft MVP (.NET)</h3>
