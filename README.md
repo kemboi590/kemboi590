@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemboi590&label=Profile%20views&color=0e75b6&style=flat" alt="kemboi590" /> </p>
 
-![potrait](https://drive.google.com/file/d/1S8CFKs6ySB-agquj-aK1NAyybR5VlZux/view?usp=sharing)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemboi590&label=Profile%20views&color=0e75b6&style=flat" alt="kemboi590" /> </p>
 
 ---
 
