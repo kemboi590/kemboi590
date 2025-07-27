@@ -46,7 +46,7 @@ As a **Technical Trainer at Teach2Give**, I’m passionate about mentoring and e
 I'm always open to **mentoring**, **speaking at events**, and sharing knowledge about software engineering and cloud technologies.  
 
 🌐 Website: [https://brian-kemboi.vercel.app](https://brian-kemboi.vercel.app)  
-📫 Email: briankibichiikrmboi@outlook.com
+📫 Email: briankibichiikemboi@outlook.com
 
 ---
 
