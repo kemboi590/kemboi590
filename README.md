@@ -1,5 +1,3 @@
-![MasterHead](https://webitexperts.com/images/banner1_1.gif)
-
 <h1 align="center">Hi 👋, I'm Brian Kemboi</h1>
 <h3 align="center">Technical Trainer | Software Engineer | Microsoft MVP (.NET)</h3>
 <img align="center" alt="Brian's Portrait" width="1000" src="https://drive.google.com/uc?export=view&id=1S8CFKs6ySB-agquj-aK1NAyybR5VlZux" />
